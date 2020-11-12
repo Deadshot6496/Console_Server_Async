@@ -1,0 +1,7 @@
+C:\Users\Karthik\source\repos\Server_console\Client_console\bin\Debug\Client_console.exe.config
+C:\Users\Karthik\source\repos\Server_console\Client_console\bin\Debug\Client_console.exe
+C:\Users\Karthik\source\repos\Server_console\Client_console\bin\Debug\Client_console.pdb
+C:\Users\Karthik\source\repos\Server_console\Client_console\obj\Debug\Client_console.csprojAssemblyReference.cache
+C:\Users\Karthik\source\repos\Server_console\Client_console\obj\Debug\Client_console.csproj.CoreCompileInputs.cache
+C:\Users\Karthik\source\repos\Server_console\Client_console\obj\Debug\Client_console.exe
+C:\Users\Karthik\source\repos\Server_console\Client_console\obj\Debug\Client_console.pdb

@@ -1,0 +1,14 @@
+C:\Users\spi\source\repos\Server_console\Server_console\bin\Debug\Server_console.exe.config
+C:\Users\spi\source\repos\Server_console\Server_console\bin\Debug\Server_console.exe
+C:\Users\spi\source\repos\Server_console\Server_console\bin\Debug\Server_console.pdb
+C:\Users\spi\source\repos\Server_console\Server_console\obj\Debug\Server_console.csprojAssemblyReference.cache
+C:\Users\spi\source\repos\Server_console\Server_console\obj\Debug\Server_console.csproj.CoreCompileInputs.cache
+C:\Users\spi\source\repos\Server_console\Server_console\obj\Debug\Server_console.exe
+C:\Users\spi\source\repos\Server_console\Server_console\obj\Debug\Server_console.pdb
+C:\Users\Karthik\source\repos\Server_console\Server_console\bin\Debug\Server_console.exe.config
+C:\Users\Karthik\source\repos\Server_console\Server_console\bin\Debug\Server_console.exe
+C:\Users\Karthik\source\repos\Server_console\Server_console\bin\Debug\Server_console.pdb
+C:\Users\Karthik\source\repos\Server_console\Server_console\obj\Debug\Server_console.csprojAssemblyReference.cache
+C:\Users\Karthik\source\repos\Server_console\Server_console\obj\Debug\Server_console.csproj.CoreCompileInputs.cache
+C:\Users\Karthik\source\repos\Server_console\Server_console\obj\Debug\Server_console.exe
+C:\Users\Karthik\source\repos\Server_console\Server_console\obj\Debug\Server_console.pdb
